@@ -44,4 +44,12 @@ body {
   height: 100%;
   margin-left: 0;
 }
+.card {
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.18);
+  margin-bottom: 2rem;
+}
+.card-header-title {
+  color: #8f99a3;
+  font-weight: 400;
+}
 </style>
