@@ -19,8 +19,8 @@
 </template>
 
 <script>
-import NavBar from '~/components/NavBar.vue';
-import SideBar from '~/components/SideBar.vue';
+import NavBar from '~/components/layout/NavBar.vue';
+import SideBar from '~/components/layout/SideBar.vue';
 
 export default {
   components: {
