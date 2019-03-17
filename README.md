@@ -1,6 +1,6 @@
 # nuxt-bulma-admin
 
-> Nuxt.js/Bulma admin template (https://dansup.github.io/bulma-templates/)
+> Nuxt.js/Bulma admin template
 
 ## Build Setup
 
@@ -18,3 +18,10 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
+
+## Demo
+https://dansup.github.io/bulma-templates/templates/admin.html
+
+## Credits
+https://dansup.github.io/bulma-templates/
+https://github.com/dansup/bulma-templates
