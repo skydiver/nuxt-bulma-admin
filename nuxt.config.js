@@ -40,7 +40,7 @@ export default {
   /*
    ** Nuxt.js modules
    */
-  modules: ['@nuxtjs/bulma', 'nuxt-webpackdashboard'],
+  modules: ['@nuxtjs/bulma', 'nuxt-buefy', 'nuxt-webpackdashboard'],
 
   /*
    ** Build configuration

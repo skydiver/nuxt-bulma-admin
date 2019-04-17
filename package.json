@@ -13,9 +13,10 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "@nuxtjs/bulma": "^1.2.3",
     "cross-env": "^5.2.0",
     "nuxt": "^2.6.2",
-    "@nuxtjs/bulma": "^1.2.3"
+    "nuxt-buefy": "^0.3.5"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^0.0.1",
