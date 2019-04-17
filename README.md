@@ -23,5 +23,5 @@ $ npm run generate
 https://dansup.github.io/bulma-templates/templates/admin.html
 
 ## Credits
-https://dansup.github.io/bulma-templates/
-https://github.com/dansup/bulma-templates
+* https://dansup.github.io/bulma-templates/
+* https://github.com/dansup/bulma-templates
